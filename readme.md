@@ -4,7 +4,7 @@ These documents & links will help you during my workshop.
 
 **Documents:**
 
-* [Setup your Development Environment](development-environment.md)
+* [Setup your Development Environment](Development-Environment.md)
 * [Install an Agent in your Container](onprem-agent.md)
 
 **Link:**
